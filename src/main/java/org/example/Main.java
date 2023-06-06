@@ -17,7 +17,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("i = " + i);
             System.out.println("i = " + i);
-            String s = "hellow";
+            String s = "hellow development";
         }
     }
 }
